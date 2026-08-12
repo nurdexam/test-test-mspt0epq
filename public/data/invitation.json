@@ -1,34 +1,17 @@
 {
-  "groom": "Айдос",
-  "bride": "Айгерим",
-  "date": "15 августа 2026",
-  "time": "17:00",
-  "dateTime": "2026-08-15T17:00:00",
-  "venue": "Grand Palace",
-  "address": "Алматы, Казахстан",
-  "coverImage": "/invitation/cover.jpg",
-  "music": "/music/toy.mp3",
   "gallery": [
-    "/invitation/photo-1.jpg",
-    "/invitation/photo-2.jpg",
-    "/invitation/photo-3.jpg",
-    "/invitation/photo-4.jpg",
-    "/invitation/photo-5.jpg",
-    "/invitation/photo-6.jpg"
+    "AgACAgIAAxkBAAIBf2p8G7xJSiiatcWJP0sZLFZrV_47AAI9F2sb_0nhS-SXggzsfVqCAQADAgADeQADPQQ",
+    "AgACAgIAAxkBAAIBgGp8G7w2cvmW_hfOqD-6ZXom0N58AAI-F2sb_0nhS9Aq1RkfpiB4AQADAgADeQADPQQ",
+    "AgACAgIAAxkBAAIBgWp8G7zYg7n0AAEplna2kRcUcjtmKwACPxdrG_9J4UsQZTmbk7Bh3gEAAwIAA3kAAz0E",
+    "AgACAgIAAxkBAAIBgmp8G7yICm2lXK8ySLGpoMLDgRG8AAJAF2sb_0nhS_CfeLNMl0xhAQADAgADeQADPQQ",
+    "AgACAgIAAxkBAAIBfWp8G6tAVwiGDHZx4-A2AdCW1vPWAAI8F2sb_0nhSyng6hc4T8wkAQADAgADeQADPQQ"
   ],
-  "events": [
-    {
-      "time": "16:00",
-      "title": "Сбор гостей"
-    },
-    {
-      "time": "17:00",
-      "title": "Начало торжества"
-    },
-    {
-      "time": "18:00",
-      "title": "Праздничный банкет"
-    }
-  ]
+  "groom": "Test",
+  "bride": "Test",
+  "date": "15 тамыз 2026",
+  "time": "18:00",
+  "dateTime": "2026-08-15T18:00:00",
+  "venue": "Toy",
+  "address": "Kentau",
+  "coverImage": "AgACAgIAAxkBAAIBtWp8JPWqx_su7hRl1CnHRe8_ltQnAAKdF2sb_0nhS60gI4bhkf4dAQADAgADeQADPQQ"
 }
-
